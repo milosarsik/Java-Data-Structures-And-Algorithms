@@ -1,5 +1,3 @@
-// December 21, 2018
-
 package milosarsik.arrays;
 
 public class Main {
