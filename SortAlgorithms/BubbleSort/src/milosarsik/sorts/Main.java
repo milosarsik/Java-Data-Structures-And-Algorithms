@@ -7,12 +7,7 @@ public class Main
         System.out.println("Bubble Sort");
 
         int[] integerArray = {6,2,7,8,3,2,7,45,3465,435};
-
-        for (int i = 0; i < integerArray.length; i++)
-        {
-            System.out.println(integerArray[i]);            // Printing the element
-        }
-
+        
         // Bubble sort begins, we are keeping track of the end of the unsorted partition
         for (int endOfUnsortedPartition = integerArray.length - 1; endOfUnsortedPartition > 0; endOfUnsortedPartition--)
         {
