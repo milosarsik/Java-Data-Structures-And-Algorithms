@@ -16,7 +16,7 @@ public class Main
         // Bubble sort begins, we are keeping track of the end of the unsorted partition
         for (int endOfUnsortedPartition = integerArray.length - 1; endOfUnsortedPartition > 0; endOfUnsortedPartition--)
         {
-            for (int i = 0; i < endOfUnsortedPartition; i++)    // In this loop we are traversing right to left
+            for (int i = 0; i < endOfUnsortedPartition; i++)    // In this loop we are traversing left to right
             {
                 if(integerArray[i] > integerArray[i+1])
                 {
