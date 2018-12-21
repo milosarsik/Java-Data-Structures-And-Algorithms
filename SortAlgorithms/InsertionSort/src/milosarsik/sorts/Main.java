@@ -25,7 +25,7 @@ public class Main
 
         for (int i = 0; i < integerArray.length; i++)
         {
-            System.out.println(integerArray[i]);                            // Printing the element
+            System.out.println(integerArray[i]);                                            // Printing the element
         }
     }
 }
