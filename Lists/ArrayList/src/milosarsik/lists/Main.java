@@ -13,22 +13,12 @@ public class Main {
         employeeList.add(new Employee("Bill", "Hill", 4563));
         employeeList.add(new Employee("Tim", "Jones", 4563));
 
-        //employeeList.forEach(employee -> System.out.println(employee));
-
-        //System.out.println(employeeList.get(1));        // Since it is backed by an array, array list is zero based
+        System.out.println(employeeList.get(1));        // Since it is backed by an array, array list is zero based
                                                         // to access the second element, we use 1
 
         employeeList.set(2, new Employee("Jane", "Jones", 5000));           // Replacing the 3rd position
 
-        //employeeList.forEach(employee -> System.out.println(employee));
-
-        //System.out.println("");
-
         employeeList.add(3, new Employee("Terrance","Howard",4123));
-
-        //employeeList.forEach(employee -> System.out.println(employee));
-
-        //System.out.println("");
 
         Employee[] employeeArray = employeeList.toArray(new Employee[employeeList.size()]);         // This is to get the backing array
 
@@ -37,9 +27,9 @@ public class Main {
 //            System.out.println(employee);
 //        }
 
-        //System.out.println(employeeList.contains(new Employee("Mike", "Smith", 4563)));     // Check if it contains the object
+        System.out.println(employeeList.contains(new Employee("Mike", "Smith", 4563)));     // Check if it contains the object
 
-        //System.out.println(employeeList.indexOf(new Employee("John", "Doe", 4563)));        // Get the index
+        System.out.println(employeeList.indexOf(new Employee("John", "Doe", 4563)));        // Get the index
 
         employeeList.remove(0);                                                                            // Removing the object at the specified index
 
