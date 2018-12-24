@@ -6,8 +6,12 @@ Complete:
 - Sort Algorithms
 - Lists
 - Stacks
--
+- Queues
+- Hashtables
+- Search Algorithms
 
 Incomlpete:
 - Sort Algorithms Challenge #3
-- 
+- Bucket Sort
+- Hashtable Challenge #1
+- Hashtable Challenge #2
