@@ -9,9 +9,8 @@ Complete:
 - Queues
 - Hashtables
 - Search Algorithms
+- Trees
 
 Incomlpete:
-- Sort Algorithms Challenge #3
 - Bucket Sort
-- Hashtable Challenge #1
-- Hashtable Challenge #2
+
