@@ -117,7 +117,9 @@ public class Main
         
         while(i < n2)
         {
-            
+            a[c + 1] = rA[j];
+            j++;
+            c++;
         }
     }
 }
