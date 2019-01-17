@@ -16,7 +16,7 @@ public class Main
         }
     }
 
-    // mergeSort - this is the method that will sort the array, it is recursive
+    // course implementation of merge sort
     public static void mergeSort(int[] input, int start, int end)
     {
         if (end - start < 2)
@@ -26,13 +26,12 @@ public class Main
 
         int mid = (start + end) / 2;
 
-        mergeSort(input, start, mid);                       // Splitting the array
-        mergeSort(input, mid, end);                         // Splitting the array
+        mergeSort(input, start, mid);                       // splitting the array
+        mergeSort(input, mid, end);                         // splitting the array
 
         merge(input, start, mid, end);
     }
-
-    // merge -
+    
     public static void merge(int[] input, int start, int mid, int end)
     {
         if (input[mid - 1] <= input[mid])
@@ -55,30 +54,30 @@ public class Main
         System.arraycopy(temp, 0, input, start, tempIndex);
     }
     
-    // Below is how we did it in class
+    // class implementation of merge sort
     public void mergeSort(int[] a, int l, int r)
     {
         if (l < r)
         {
-            int m = (l + r) / 2;                        // Calculating the midpoint
+            int m = (l + r) / 2;                        // calculating the midpoint
             
-            mergeSort(a, l, m);
-            mergeSort(a, m + 1, r);                     // Splitting the array
+            mergeSort(a, l, m);                         // splitting the array
+            mergeSort(a, m + 1, r);                     // splitting the array
             
-            merge(a, l, m, r);                          // Merging the arrays
+            merge(a, l, m, r);                          // merging the arrays
         }
     }
     
     public void merge(int[] a, int l, int m, int r)
     {
-        int n1 = m - l + 1;             // This is the size of the left sub array
-        int n2 = r - m;                 // This is the size of the right sub array 
+        int n1 = m - l + 1;             // this is the size of the left sub array
+        int n2 = r - m;                 // this is the size of the right sub array 
     
-        // Creating temporary arrays
+        // creating temporary arrays
         int[] lA = new int[n1];
         int[] rA = new int[n2];
        
-        // Copying into the new array
+        // copying into the new array
         for(int i = 0; i < n1; i++)
         {
             lA[i] = a[l + i];
@@ -89,7 +88,7 @@ public class Main
             rA[i] = a[m + 1 + i];
         }
         
-        int k = 0, j= 0, c = 0;             // Temporary indices
+        int k = 0, j= 0, c = 0;             // temporary indices
         
         while(k < n1 && j < n2)
         {
@@ -122,4 +121,53 @@ public class Main
             c++;
         }
     }
+    
+    // book implementation of merge sort (array-based)
+    public static <K> void merge(K[] S1, K[] S2, K[] S, Comparator<K> comp)
+    {
+        int i = 0;
+        int j = 0;
+        
+        while(i + j < S.length)
+        {
+            if(j == S2.length || (i < S1.length && comp.compare(S1[i], S2[i]) < 0))
+            {
+                S[i + j] = S1[i++];                 // copy ith element of S1 and increment i
+            }
+            else
+            {
+                S[i + j] = S2[j++];                 // copy jth element of S2 and increment j
+            }
+        }
+    }
+    
+    public static <K> void merge(K[] S1, K[] S2, K[] S, Comparator<K> comp)
+    {
+        int n = S.length;
+        
+        if(n < 2)
+        {
+            return;                                 // array is trivially sorted
+        }
+        
+        //divide
+        int mid = n/2;
+        K[] S1 = Arrays.copyOfRange(S, 0, mid);     // copy of first half
+        K[] S2 = Arrays.copyOfRange(S, mid, n);     // copy of second half
+        
+        //conquer (with recursion)
+        mergeSort(S1, comp);                        // sort copy of first half
+        mergeSort(S2, comp);                        // sort copy of second half
+        
+        //merge results
+        merge(S1, S2, S, comp);                     // merge sorted halves back into original
+    }
+    
+    // book also contains queue implementation to sort linked lists and a bottom
+    // up non recursive merge sort implementation
+    
+    
+    
+    
+    
 }
