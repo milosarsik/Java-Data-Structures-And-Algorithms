@@ -1,5 +1,4 @@
-# Java-DataStructuresAndAlgorithms
-Code and notes for the course, Data Structures &amp; Algorithms: Deep Dive Using Java by Tim Buchalka.
+# Data Structures & Algorithms
 
 Complete:
 - Arrays & Big O Notation
