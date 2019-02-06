@@ -4,6 +4,11 @@ public class Main
 {
     public static void main(String[] args)
     {
+        System.out.println("Recursion");
+
+        int [] intArray = {1, 2, 3, 4, 5, 6};
+
+
     }
     
     // course implementation of the factorial function, recursive and iterative
@@ -60,7 +65,7 @@ public class Main
     }
     
     // sum of squares function, implementation #1
-    public static int sumofsquares(int n, int m)
+    public static int sumofsquaresone(int n, int m)
     {
         if(n == m)
         {
@@ -68,7 +73,7 @@ public class Main
         }
         else
         {
-            return m * m + sumofsquares(n, m-1);
+            return m * m + sumofsquaresone(n, m-1);
         }
     }
     
@@ -113,7 +118,7 @@ public class Main
 	    {	
 		    return left;
 	    }   
-	    else()
+	    else
 	    {
 		    int minL = findMinIndex(A, left, (left + right) / 2);
 		    int minR = findMinIndex(A, (left + right) / 2 + 1, right);
