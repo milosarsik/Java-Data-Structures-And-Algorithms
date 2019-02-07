@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9de66cf8-3f7f-4a79-98e8-b14fe3d76d40" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/ArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayStack/LinkedStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayStack/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArrayStack/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayStack/SinglyLinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayStack/SinglyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedStack.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SinglyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListStack/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListStack/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListStack/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListStack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListStack/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListStack/out/production/LinkedListStack/milosarsik/stacks/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListStack/out/production/LinkedListStack/milosarsik/stacks/LinkedListStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListStack/out/production/LinkedListStack/milosarsik/stacks/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListStack/src/milosarsik/stacks/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListStack/src/milosarsik/stacks/LinkedListStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListStack/src/milosarsik/stacks/Main.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,7 +28,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -48,7 +73,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -66,10 +90,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549522080187" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549522605800" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -120,18 +146,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1087" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24945295" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2549234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32914045" />
@@ -139,14 +162,18 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -154,13 +181,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArrayStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="65" column="1" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -174,26 +194,21 @@
     <entry file="file://$PROJECT_DIR$/src/LinkedStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-          <folding>
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#508#509#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#576#577#0" expanded="true" />
-          </folding>
+          <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="19" lean-forward="true" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+        <state relative-caret-position="119">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
