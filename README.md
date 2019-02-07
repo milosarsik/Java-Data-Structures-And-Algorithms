@@ -2,3 +2,4 @@
 
 Final Edit:
 - Stacks
+- Queues
