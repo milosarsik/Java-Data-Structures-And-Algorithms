@@ -1,5 +1,6 @@
 # Data Structures & Algorithms
 
-Final Edit:
+**Final Edit:**
+- Lists
 - Stacks
 - Queues
