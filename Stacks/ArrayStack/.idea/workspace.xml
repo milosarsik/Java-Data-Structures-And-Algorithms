@@ -2,23 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9de66cf8-3f7f-4a79-98e8-b14fe3d76d40" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArrayStack/LinkedStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArrayStack/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArrayStack/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArrayStack/SinglyLinkedList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArrayStack/SinglyLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SinglyLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListStack/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListStack/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListStack/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListStack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListStack/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListStack/out/production/LinkedListStack/milosarsik/stacks/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListStack/out/production/LinkedListStack/milosarsik/stacks/LinkedListStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListStack/out/production/LinkedListStack/milosarsik/stacks/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListStack/src/milosarsik/stacks/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListStack/src/milosarsik/stacks/LinkedListStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListStack/src/milosarsik/stacks/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Queues/ArrayQueue/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Queues/ArrayQueue/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Queues/ArrayQueue/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Queues/ArrayQueue/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Queues/ArrayQueue/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Queues/ArrayQueue/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Queues/ArrayQueue/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Queues/ArrayQueue/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Queues/ArrayQueue/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Queues/ArrayQueue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Queues/ArrayQueue/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Queues/ArrayQueue/ArrayQueue.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Queues/ArrayQueue/out/production/ArrayQueue/milosarsik/queues/ArrayQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Queues/ArrayQueue/out/production/ArrayQueue/milosarsik/queues/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Queues/ArrayQueue/out/production/ArrayQueue/milosarsik/queues/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Queues/ArrayQueue/src/milosarsik/queues/ArrayQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Queues/ArrayQueue/src/milosarsik/queues/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Queues/ArrayQueue/src/milosarsik/queues/Main.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,12 +24,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -63,9 +59,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
-    <option name="height" value="1087" />
+    <option name="x" value="952" />
+    <option name="width" value="975" />
+    <option name="height" value="1088" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -73,7 +69,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -90,6 +85,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -145,10 +141,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1087" extended-state="0" />
-    <editor active="true" />
+    <frame x="762" y="0" width="780" height="870" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2549234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -184,20 +179,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SinglyLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="123" column="1" selection-start-line="123" selection-start-column="1" selection-end-line="123" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SinglyLinkedList.java" />
+    <entry file="file://$PROJECT_DIR$/src/LinkedStack.java" />
     <entry file="file://$PROJECT_DIR$/src/ArrayStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -208,7 +191,7 @@
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
