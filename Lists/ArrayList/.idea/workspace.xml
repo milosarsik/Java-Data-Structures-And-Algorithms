@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d1d04be-4fc7-421c-8e4d-5083b72b4c4c" name="Default Changelist" comment="" />
+    <list default="true" id="0d1d04be-4fc7-421c-8e4d-5083b72b4c4c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/milosarsik/lists/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/milosarsik/lists/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/milosarsik/lists/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/milosarsik/lists/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Queues/CircularQueue/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Queues/CircularQueue/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Queues/CircularQueue/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Queues/CircularQueue/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Queues/CircularQueue/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Queues/CircularQueue/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Queues/CircularQueue/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Queues/CircularQueue/CircularQueue.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Queues/CircularQueue/src/milosarsik/queues/ArrayQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Queues/CircularQueue/src/milosarsik/queues/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Queues/CircularQueue/src/milosarsik/queues/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Queues/Section 6 Queues.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Queues/Section 6 Queues.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section 1 Intoduction.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section 1 Intoduction.pdf" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,23 +33,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/milosarsik/lists/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+            <state relative-caret-position="612">
+              <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/milosarsik/lists/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-              <folding>
-                <element signature="e#1136#1137#0" expanded="true" />
-                <element signature="e#1196#1197#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -51,15 +57,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/milosarsik/lists/Employee.java" />
         <option value="$PROJECT_DIR$/src/milosarsik/lists/Main.java" />
+        <option value="$PROJECT_DIR$/src/milosarsik/lists/Employee.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="width" value="904" />
-    <option name="height" value="1089" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="905" />
+    <option name="height" value="1090" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -94,7 +100,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545545194055" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549567771895" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -139,7 +146,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="723" height="871" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.28959277" />
@@ -171,11 +178,30 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="71" column="17" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/milosarsik/lists/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state relative-caret-position="187">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding>
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#747#748#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
             <element signature="e#1136#1137#0" expanded="true" />
             <element signature="e#1196#1197#0" expanded="true" />
           </folding>
@@ -184,8 +210,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/milosarsik/lists/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+        <state relative-caret-position="612">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
