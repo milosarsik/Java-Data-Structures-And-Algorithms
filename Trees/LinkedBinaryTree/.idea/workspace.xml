@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a89d3c35-644c-4bcb-ba0b-c08bcead5357" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Iterable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AbstractTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,12 +17,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/AbstractTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+            <state relative-caret-position="705">
+              <caret line="161" column="9" lean-forward="true" selection-start-line="161" selection-start-column="9" selection-end-line="161" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1794#1795#0" expanded="true" />
-                <element signature="e#1840#1841#0" expanded="true" />
+                <element signature="method#depth#0;class#AbstractTree#0" />
+                <element signature="method#height#0;class#AbstractTree#0" />
+                <element signature="e#4743#4744#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -93,8 +92,8 @@
         <option value="$PROJECT_DIR$/src/ArrayList.java" />
         <option value="$PROJECT_DIR$/src/Tree.java" />
         <option value="$PROJECT_DIR$/src/Iterable.java" />
-        <option value="$PROJECT_DIR$/src/AbstractTree.java" />
         <option value="$PROJECT_DIR$/src/AbstractBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/AbstractTree.java" />
       </list>
     </option>
   </component>
@@ -130,7 +129,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555733024279" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555778368142" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -316,12 +315,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AbstractTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        <state relative-caret-position="705">
+          <caret line="161" column="9" lean-forward="true" selection-start-line="161" selection-start-column="9" selection-end-line="161" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1794#1795#0" expanded="true" />
-            <element signature="e#1840#1841#0" expanded="true" />
+            <element signature="method#depth#0;class#AbstractTree#0" />
+            <element signature="method#height#0;class#AbstractTree#0" />
+            <element signature="e#4743#4744#0" expanded="true" />
           </folding>
         </state>
       </provider>
